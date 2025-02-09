@@ -5,12 +5,12 @@
 <h1 align="center">
   Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px" />
   <br>
-  I'm <a href="https://github.com/thirawatks" target="_blank">Thirawat Keson</a>
+  I'm <a href="https://github.com/THRT-KS" target="_blank">Thirawat Keson</a>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h1>
 
 <p align="center">
-  <a href="https://github.com/thirawatks"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Frontend+Developer;Computer+Engineering+Graduate;Always+learning+new+things" alt="Typing SVG" /></a>
+  <a href="https://github.com/THRT-KS"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Frontend+Developer;Computer+Engineering+Graduate;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 
